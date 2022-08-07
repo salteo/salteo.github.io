@@ -13,5 +13,6 @@ Click the links below to browse:
 | [**Opinions**](/Opinions/index) | *some thoughts on the news* |
 | [**Travel**](/Travel/index) | *some brief travelogues* |
 | [**Poetry**](/Poetry/index) | *some poems, good or bad, you decide* |
+| [**Stories**](/Stories/index) | *a few fictional stories, both short and long* |
 
 
