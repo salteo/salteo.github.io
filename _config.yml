@@ -1,0 +1,13 @@
+---
+name: Salteo
+title: Salteo
+---
+markdown:kramdown
+
+# SEO Stuff
+author: Charlie
+description: Assorted Writings
+lang: en
+locale: en_GB
+url: "https://salteo.github.io"
+baseurl: ""
