@@ -1,6 +1,6 @@
 ---
 title: An Eternal Citizenship
-layout: default
+layout: post
 ---
 
 
