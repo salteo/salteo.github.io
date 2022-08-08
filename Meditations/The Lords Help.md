@@ -1,6 +1,6 @@
 ---
 title: The Lord's Help
-layout: default
+layout: post
 ---
 
 

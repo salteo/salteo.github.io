@@ -1,6 +1,6 @@
 ---
 title: The Calf and The Rope
-layout: default
+layout: post
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: post
 ---
 
 
@@ -16,3 +16,4 @@ This verse reminds us that we are not only called to honour our earthly masters 
 
 Our bosses may be evil, they may be stupid, they may be lazy, or they may have an unending list of bad qualities, but let us regard them as worthy of all honor, for the simple reason that if we do not do so Jesus Christ, the name of God, and the Christian doctrine will be spoke against, and the kingdom of God will suffer damage. Let us not join in with our colleagues who speak well of the boss when he is around, and gossip and back bite when he isn't. May we depend on the Lord, to grow in applying this command. 
 
+post

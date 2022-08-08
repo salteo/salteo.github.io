@@ -16,3 +16,4 @@ While just a simple Christian myself, I share the apostle John's sentiments when
 | [**An Eternal Citizenship**](/Meditations/An Eternal Citizenship): *thoughts from Phillipians 3:20* | Published: Apr 2021 |
 
 
+post

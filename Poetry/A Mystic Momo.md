@@ -1,6 +1,6 @@
 ---
 title: A Mystic Momo
-layout: default
+layout: post
 ---
 
 

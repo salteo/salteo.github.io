@@ -1,6 +1,6 @@
 ---
 title: One Finger San
-layout: default
+layout: post
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: The Harmonics of 'Nostress'
-layout: default
+layout: post
 ---
 
 

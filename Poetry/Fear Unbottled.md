@@ -1,6 +1,6 @@
 ---
 title: Fear Unbottled
-layout: default
+layout: post
 ---
 
 

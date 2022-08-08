@@ -1,6 +1,6 @@
 ---
 title: Who are the Indian 'Christians'
-layout: default
+layout: post
 ---
 
 

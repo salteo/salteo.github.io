@@ -1,6 +1,6 @@
 ---
 title: The Fast-ripening Grapes of Wrath
-layout: default
+layout: post
 ---
 
 

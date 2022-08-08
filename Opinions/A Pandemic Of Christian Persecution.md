@@ -1,6 +1,6 @@
 ---
 title: A Pandemic of Christian Persecution
-layout: default
+layout: post
 ---
 
 

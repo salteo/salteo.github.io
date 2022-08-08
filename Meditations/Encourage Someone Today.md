@@ -1,6 +1,6 @@
 ---
 title: Encourage Someone Today
-layout: default
+layout: post
 ---
 
 

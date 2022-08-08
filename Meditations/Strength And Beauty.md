@@ -1,6 +1,6 @@
 ---
 title: Strength and Beauty
-layout: default
+layout: post
 ---
 
 

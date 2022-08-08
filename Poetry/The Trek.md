@@ -1,6 +1,6 @@
 ---
 title: The Trek
-layout: default
+layout: post
 ---
 
 

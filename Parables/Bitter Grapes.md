@@ -1,6 +1,6 @@
 ---
 title: Bitter Grapes
-layout: default
+layout: post
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: A Drive to Jakkalamadagu Dam
-layout: default
+layout: post
 ---
 
 
