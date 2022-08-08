@@ -15,5 +15,3 @@ While just a simple Christian myself, I share the apostle John's sentiments when
 | [**Honor your Boss**](/Meditations/Honor Your Boss): *thoughts from 1 Timothy 6:1* | Published: July 2022 |
 | [**An Eternal Citizenship**](/Meditations/An Eternal Citizenship): *thoughts from Phillipians 3:20* | Published: Apr 2021 |
 
-
-post
