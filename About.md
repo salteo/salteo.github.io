@@ -5,7 +5,9 @@ layout: default
 
 ## About
 
-Salteo is a personal blog project by Charlie, a writer based out of Bangalore, India, as a break from his regular, mind-numbing writing gigs which involves churning out marketing copy for several global corporations.
+The Salteo Magazine is a collection of writings by Charlie, a writer based out of Bangalore, India. This project is a break from the mind-numbing effect of his freelancing work, which mostly involves churning out marketing copy for several global corporations.
+
+Here you’ll find articles, essays, stories, poetry, and more, all sprinkled with a little bit of salt. Hope you enjoy these reads!
 
 [Click here to browse the content on Salteo >>](/Browse)
 
