@@ -13,7 +13,7 @@ Click the links below to browse:
 | [**Ruminations**](/Ruminations/index) | *some thoughts from life* |
 | [**Parables**](/Parables/index) | *short stories, with a moral punch* |
 | [**Opinions**](/Opinions/index) | *some thoughts on the news* |
-| [**Travel**](/Travel/index) | *some brief travelogues* |
+| [**Travelogues**](/Travel/index) | *some brief travel write-ups* |
 | [**Poetry**](/Poetry/index) | *some poems, good or bad, you decide* |
 | [**Stories**](/Stories/index) | *a few fictional stories, both short and long* |
 
