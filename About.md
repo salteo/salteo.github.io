@@ -12,3 +12,4 @@ Here you’ll find articles, essays, stories, poetry, and more, all sprinkled wi
 [Click here to browse the content on Salteo >>](/Browse)
 
 
+{% include disclaimer.html %}  
