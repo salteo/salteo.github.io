@@ -48,7 +48,7 @@ And then by the end of the chapter, there it is, the answer, as clear as day:
 ‘Behold, the fear of the Lord, that is wisdom,<br>
 and to turn away from evil is understanding.’” <br>- The Book of Job, Chapter 28, verse 28*
 
-The is the same conclusion, the wisest king known to the ancient world, King Solomon reached by the end of his well-known book, The Ecclesiastes:
+This the same conclusion, the wisest king known to the ancient world, King Solomon reached by the end of his well-known book, The Ecclesiastes:
 
 >*The words of the wise are like goads, and like nails firmly fixed are the collected sayings; they are given by one Shepherd. My son, beware of anything beyond these. Of making many books there is no end, and much study is a weariness of the flesh. The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man.<br>- The book of Ecclesiastes, Chapter 12, verses 11-13*
 
