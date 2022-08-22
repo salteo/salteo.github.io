@@ -50,7 +50,7 @@ and to turn away from evil is understanding.’” <br>- The Book of Job, Chapte
 
 This the same conclusion, the wisest king known to the ancient world, King Solomon reached by the end of his well-known book, The Ecclesiastes:
 
->*The words of the wise are like goads, and like nails firmly fixed are the collected sayings; they are given by one Shepherd. My son, beware of anything beyond these. Of making many books there is no end, and much study is a weariness of the flesh. The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man.<br>- The book of Ecclesiastes, Chapter 12, verses 11-13*
+>*The words of the wise are like goads, and like nails firmly fixed are the collected sayings; they are given by one Shepherd. My son, beware of anything beyond these. Of making many books there is no end, and much study is a weariness of the flesh. The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man.<br>- The Book of Ecclesiastes, Chapter 12, verses 11-13*
 
 Returning to the two questions that Job's friend posed to him: 
 
