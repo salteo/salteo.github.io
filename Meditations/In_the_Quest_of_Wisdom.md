@@ -59,7 +59,7 @@ should he argue in unprofitable talk, or in words with which he can do no good?,
 
 When I ponder these questions, I realize I have once again fallen into the trap of the devil. I have filled my mind with the wisdom of the world. With its podcasts, news articles, geopolitical and economic analysis, and current events. I have begun consuming the words of men and filling my belly with the 'east wind.' I have neglected the word of the Lord to become 'wise.' But like many others who have pursued this path, I have instead become a fool. I realize now that this 'wisdom' leads to unprofitable talk. These are words with which I can do no good.
 
-May the Lord help me to return to a rrespect for His Word, the collected sayings of that one Shepherd, which alone will teach me to fear Him, and in which there is much wisdom. 
+May the Lord help me to return to a respect for His Word, the collected sayings of that one Shepherd, which alone will teach me to fear Him, and in which there is much wisdom. 
 
 Published: 22 August 2022
 
