@@ -9,6 +9,8 @@ Links to some resources which may or may not be helpful, but are added here for 
 
 Biblical help for men who struggle with porn addiction: 
 
+[A time-delayed password locker](https://lockbox.pluckeye.net)
+
 [Belt of truth](https://www.beltoftruth.com/pluckeye-filter/)
 
 Non-biblical help:
@@ -16,3 +18,7 @@ Non-biblical help:
 https://easypeasymethod.org
 
 
+Nudgemail.com: 
+This is an incredibly useful free productivity tool called nudgemail.com. It's super convenient to use if you like keeping track of things to do right in your inbox, rather than adding them to task lists or calendars.
+
+Futureme.org
