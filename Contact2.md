@@ -7,7 +7,10 @@ layout: default
 
 ## Contact (new)
 
-<script type="text/javascript">var submitted=false;</script>
+<html>
+<script type="text/javascript">
+var submitted=false;
+</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
 onload="if(submitted) {window.location='/about';}">
 </iframe>
@@ -24,3 +27,4 @@ onload="if(submitted) {window.location='/about';}">
       <input type="submit" value="Send">
 
 </form>
+</html>
