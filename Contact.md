@@ -21,6 +21,8 @@ I'd love to hear from you! Fill in the form below and click Send.
       <textarea rows="5" placeholder="Required*" name="entry.1547334523" required></textarea>
 <br><br>     
       <input type="submit" value="Send">
+      <br>
+      <br>
 
 </form>
 </html>
