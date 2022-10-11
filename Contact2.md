@@ -9,19 +9,17 @@ layout: default
 
 <html>
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse" method="post" target="_self">
       <label>Name*</label>
-      <input type="text" placeholder="Name*" name="entry.775154500" required>
-  
+      <input type="text" placeholder="Required*" name="entry.775154500" required>
+<br><br>  
       <label>Email Address*</label>
-      <input type="email" placeholder="Email address*" name="entry.2040896180" required>
-    
+      <input type="email" placeholder="Required*" name="entry.2040896180" required>
+<br><br>    
       <label>Message*</label>
-      <textarea rows="5" placeholder="Message*" name="entry.1299930221" required></textarea>
-     
+      <textarea rows="5" placeholder="Required*" name="entry.1299930221" required></textarea>
+<br><br>     
       <input type="submit" value="Send">
 
 </form>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
-
 </html>
