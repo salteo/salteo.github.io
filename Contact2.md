@@ -5,13 +5,9 @@ layout: default
 
 
 
-## Contact (with About)
+## Contact (without java)
 
-<script type="text/javascript">var submitted=false;
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
-onload="if(submitted) {window.location='/About.html';}">
-</script>
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse" method="post">
       <label>Name*</label>
       <input type="text" placeholder="Name*" name="entry.775154500" required>
   
