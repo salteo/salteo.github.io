@@ -7,8 +7,20 @@ layout: default
 
 ## Contact 
 
-I'd love to hear from you! [Click here][1] to drop me a comment.
+I'd love to hear from you! Fill in the form below and click Send.
 
-[1]: https://us8.list-manage.com/contact-form?u=2b3feaac61d83cee795fbee52&form_id=4709d7cd3cfb7e88f0475c90f3ec9264
+<html>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSeKDU5cQLI8ZMIjoSJRJQ01vVzK09iIjlwgeBdpJrQ9llcaCA/formResponse" method="post"  target="_self">
+      <label>Name*</label>
+      <input type="text" placeholder="Required*" name="entry.795574525" required>
+<br><br>  
+      <label>Email Address*</label>
+      <input type="email" placeholder="Required*" name="entry.534309814" required>
+<br><br>    
+      <label>Message*</label>
+      <textarea rows="5" placeholder="Required*" name="entry.1547334523" required></textarea>
+<br><br>     
+      <input type="submit" value="Send">
 
-
+</form>
+</html>
