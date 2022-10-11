@@ -5,15 +5,10 @@ layout: default
 
 
 
-## Contact (new)
+## Contact (mixnmatch)
 
 <html>
-<script type="text/javascript">
-var submitted=false;
-</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
-onload="if(submitted) {window.location='/about';}">
-</iframe>
+
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScozymLEBTV64BSDC8VW3t3_RcXE7Xuf0p0NgfIAMD_-lz04w/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
       <label>Name*</label>
       <input type="text" placeholder="Name*" name="entry.775154500" required>
@@ -27,4 +22,6 @@ onload="if(submitted) {window.location='/about';}">
       <input type="submit" value="Send">
 
 </form>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
 </html>
