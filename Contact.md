@@ -7,7 +7,7 @@ layout: default
 
 ## Contact 
 
-I'd love to hear from you! Fill in the form below and click Send.
+I'd love to hear from you! Fill in the form below and click Send. Using Lenar.
 
 <html>
 
@@ -21,9 +21,9 @@ I'd love to hear from you! Fill in the form below and click Send.
     <button type="submit">Submit</button>
     <input name="_site" type="hidden" value="charlie.antleo">
     <input name="_form" type="hidden" value="Contact Form">
-    <input name="_error-page-redirect" type="hidden" value="http://yahoo.com">
-  <input name="_success-page-redirect" type="hidden" value="http://google.com">
+   
   <input name="_back-url" type="hidden" value="https://www.lenar.io">
 </form> 
-
+<br>
+<br>
 </html>
