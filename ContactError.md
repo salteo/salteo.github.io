@@ -1,13 +1,15 @@
 ---
-title: Contact
+title: Contact Error
 layout: default
 ---
 
 
 
-## Contact 
+## Contact (Error)
 
-I'd love to hear from you! Fill in the form below and click Send.
+I'd love to hear from you! But something went wrong with your last form submission. 
+
+Please try submiting the form again below. 
 
 <html>
 
