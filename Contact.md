@@ -10,19 +10,20 @@ layout: default
 I'd love to hear from you! Fill in the form below and click Send.
 
 <html>
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSeKDU5cQLI8ZMIjoSJRJQ01vVzK09iIjlwgeBdpJrQ9llcaCA/formResponse" method="post"  target="_self">
-      <label>Name*</label><br>
-      <input type="text" placeholder="Required*" name="entry.795574525" required>
-<br><br>  
-      <label>Email Address*</label><br>
-      <input type="email" placeholder="Required*" name="entry.534309814" required>
-<br><br>    
-      <label>Message*</label><br>
-      <textarea rows="5" placeholder="Required*" name="entry.1547334523" required></textarea>
-<br><br>     
-      <input type="submit" value="Send">
-      <br>
-      <br>
 
-</form>
+<form action="https://formforsite.com/send/eWVscmFoYy1hbnRsZW9AeWFob28uY29t" method="POST">
+<label>Name*</label><br>
+    <input name="name" type="text" placeholder="Required*" required><br><br>
+    <label>Email Address*</label><br>
+    <input name="email" type="email" placeholder="Required*" required><br><br>
+     <label>Message*</label><br>
+    <textarea name="message" rows="5" placeholder="Required*" required></textarea><br>
+    <button type="submit">Submit</button>
+    <input name="_site" type="hidden" value="charlie.antleo">
+    <input name="_form" type="hidden" value="Contact Form">
+    <input name="_error-page-redirect" type="hidden" value="http://yahoo.com">
+  <input name="_success-page-redirect" type="hidden" value="http://google.com">
+  <input name="_back-url" type="hidden" value="https://www.lenar.io">
+</form> 
+
 </html>
