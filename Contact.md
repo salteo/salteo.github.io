@@ -11,7 +11,7 @@ I'd love to hear from you! Fill in the form below and click Send.
 
 <html>
 
-<form action="https://formforsite.com/send/eWVscmFoYy1hbnRsZW9AeWFob28uY29t" method="POST">
+<form action="https://formforsite.com/send/eWVscmFoYy1sZW5hckB5YWhvby5jb20" method="POST">
 <label>Name*</label><br>
     <input name="name" type="text" placeholder="Required*" required><br><br>
     <label>Email Address*</label><br>
