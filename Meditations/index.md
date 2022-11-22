@@ -9,6 +9,7 @@ layout: default
 
 While just a simple Christian myself, I share the apostle John's sentiments when he wrote *”These things we write, so that our joy may be made complete.”* But in case you disagree with anything I've shared below, I welcome constructive comments, criticisms, and corrections through the [Contact page here](/Contact).
 
+| [**When Water Became Wine**](/Meditations/When_Water_Became_Wine): *thoughts on the first miracle of the Lord* | Published: Nov 2022 |
 | [**In the Quest of Wisdom**](/Meditations/In_the_Quest_of_Wisdom): *thoughts on Job 28* | Published: Aug 2022 |
 | [**Strength and Beauty**](/Meditations/Strength And Beauty): *thoughts from Psalms 96:6b* | Published: Aug 2014 |
 | [**The Lord's Help**](/Meditations/The Lords Help): *thoughts from Psalms 94:16,17* | Published: July 2022 |
