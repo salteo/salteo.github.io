@@ -8,7 +8,7 @@ layout: post
 
 # When Water Became Wine
 
-The Gospel of John in the New Testament has a fascinating account of the first miracle the Lord Jesus ever did. Here it is as the ESV translation from the original Greek puts it::
+The Gospel of John in the New Testament has a fascinating account of the first miracle the Lord Jesus ever did. Here it is as the ESV translation from the original Greek puts it:
 
 >*On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. Jesus also was invited to the wedding with his disciples. When the wine ran out,the mother of Jesus said to him, “They have no wine.” And Jesus said to her, “Woman what does this have to do with me? My hour has not yet come.” His mother said to the servants, “Do whatever he tells you.”*
 
@@ -16,7 +16,7 @@ The Gospel of John in the New Testament has a fascinating account of the first m
 
 This passage reveals a beautiful truth about the Lord Jesus, that was true then and is true now. And that truth is that even as He did a miracle then, He is performing miracles even now. Just as He turned what could have been an occassion of shame and loss of face for the host of that wedding party by turning the lack of wine into a surplus of wine, and good one at that, even today He is transforming the lack of joy and merriment in many a lives into an abundance of enjoyment.
 
-Today many a soul makes arrangements for a merry life. But like with the jars at the wedding in Cana, sooner or later the wine runs out and the party grinds to a halt. Perhaps, the lack of merriment could be due to a bereavement, a loss of health, or loss or wealth, or a myriad other causes due to living in an imperfect sin-stricken world. Whatever the cause, the guests begin to feel the lack, eventually leave, and then one is left to mope alone.
+Today many a soul makes arrangements for a merry life. But like with the jars at the wedding in Cana, sooner or later the wine runs out and the party grinds to a halt. Perhaps, the lack of merriment could be due to a bereavement, a loss of health, or loss or wealth, or a myriad other causes due to living in an imperfect, sin-stricken world. Whatever the cause, the guests begin to feel the lack, eventually leave, and then one is left to mope alone.
 
 But when empty souls turn to the Saviour today He offers them the good wine of His Holy Spirit. The Apostle Paul realized that the good wine is a metaphor for the Holy Spirit when he wrote: 
 >*And do not get drunk with wine, for that is debauchery, but be filled with the Spirit* 
@@ -24,7 +24,7 @@ But when empty souls turn to the Saviour today He offers them the good wine of H
 The transformation from a state of emptiness to a state of fullness, from a vessel of water to a vessel of wine, is true for scores of people even today. It all started on the day of Pentecost in the city of Jerusalem when the Apostle Peter preached the clarion call of the gospel after the Lord's resurrection:
  >*Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.* 
 
-Thousands of people believed on that day, and the world was never the same. Today millions across the globe and across the sands of time have believed and have experienced the miracle of water turned into wine. And that is because they have received the free gift of the Holy Spirit.
+Thousands of people believed his message on that day, and the world was never the same. Today millions across the globe and across the sands of time have similarly believed and have experienced the miracle of water turned into wine. And that is because they have received the free gift of the Holy Spirit.
 
 The gift of the Holy Spirit is absolutely free, and none can ever even hope to pay for it. But the gift is conditional, it requires an acceptance. That acceptance means an acknowledgement of one's sins, and repentance - in other words, a turning away from those sins. 
 
