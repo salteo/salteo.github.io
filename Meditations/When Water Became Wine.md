@@ -8,7 +8,7 @@ layout: post
 
 # When Water Became Wine
 
-The Gospel of John in the New Testament has a fascinating account of the first miracle the Lord Jesus ever did. Here it is as the ESV translation from the original Greek puts it:
+The Gospel of John in the New Testament has a fascinating account of the first miracle the Lord Jesus ever did. Here it is as the ESV translation from the original Greek puts it::
 
 >*On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. Jesus also was invited to the wedding with his disciples. When the wine ran out,the mother of Jesus said to him, “They have no wine.” And Jesus said to her, “Woman what does this have to do with me? My hour has not yet come.” His mother said to the servants, “Do whatever he tells you.”*
 
