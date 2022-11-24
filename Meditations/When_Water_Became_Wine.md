@@ -34,6 +34,18 @@ Oh empty reader, do you struggle with the emptiness in your life? Would you list
 
 >*In your presence there is fullness of joy; at your right hand are pleasures forevermore.* 
 
+
+### References
+
+* [https://americanmilitarynews.com/2021/07/china-is-buying-billions-in-us-farmland-and-lawmakers-are-scrambling-to-try-to-stop-them/](https://americanmilitarynews.com/2021/07/china-is-buying-billions-in-us-farmland-and-lawmakers-are-scrambling-to-try-to-stop-them/){:target="_blank"}
+
+**[India: Christians struggle to survive amid COVID-19 lockdown.][1]**<br>
+*Leah MarieAnn Klett, Christian Post, May 01, 2020.* 
+**[Read >>][1]**
+
+[1]: (https://www.christianpost.com/news/india-christians-face-growing-persecution-amid-covid-19-lockdown.html){:target="_blank"}
+
+
 ---------------------
 Published: 22 November 2022 | Updated: 22 November 2022
 
