@@ -37,10 +37,12 @@ Oh empty reader, do you struggle with the emptiness in your life? Would you list
 
 ### References
 
-* [https://americanmilitarynews.com/2021/07/china-is-buying-billions-in-us-farmland-and-lawmakers-are-scrambling-to-try-to-stop-them/](https://americanmilitarynews.com/2021/07/china-is-buying-billions-in-us-farmland-and-lawmakers-are-scrambling-to-try-to-stop-them/){:target="_blank"}
+**[The Miracle at the Wedding in Cana: ](https://www.biblegateway.com/passage/?search=John%202:1-12&version=ESV){:target="_blank"}**<br> 
+**[Read The Gospel of John, Chapter 2, Verses 1-12 >>](https://www.biblegateway.com/passage/?search=John%202:1-12&version=ESV){:target="_blank"}**
 
-**[The Miracle at the Wedding in Cana](https://www.biblegateway.com/passage/?search=John%202:1-12&version=ESV){:target="_blank"}**<br> 
-**[Read >>](https://www.biblegateway.com/passage/?search=John%202:1-12&version=ESV){:target="_blank"}**
+**[The Coming of the Holy Spirit: ](https://www.biblegateway.com/passage/?search=Acts%202:1-41&version=ESV){:target="_blank"}**<br> 
+**[Read The Book of the Acts of the Apostles, Chapter 2, Verses 1-41 >>](https://www.biblegateway.com/passage/?search=Acts%202:1-41&version=ESV){:target="_blank"}**
+
 
 
 
