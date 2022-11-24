@@ -38,10 +38,10 @@ Oh empty reader, do you struggle with the emptiness in your life? Would you list
 ### References
 
 **[The Miracle at the Wedding in Cana: ](https://www.biblegateway.com/passage/?search=John%202:1-12&version=ESV){:target="_blank"}**<br> 
-**[Read The Gospel of John, Chapter 2, Verses 1-12 >>](https://www.biblegateway.com/passage/?search=John%202:1-12&version=ESV){:target="_blank"}**
+The Gospel of John, Chapter 2, Verses 1-12 **[Read >>](https://www.biblegateway.com/passage/?search=John%202:1-12&version=ESV){:target="_blank"}**
 
 **[The Coming of the Holy Spirit: ](https://www.biblegateway.com/passage/?search=Acts%202:1-41&version=ESV){:target="_blank"}**<br> 
-**[Read The Book of the Acts of the Apostles, Chapter 2, Verses 1-41 >>](https://www.biblegateway.com/passage/?search=Acts%202:1-41&version=ESV){:target="_blank"}**
+The Book of the Acts of the Apostles, Chapter 2, Verses 1-41 **[Read >>](https://www.biblegateway.com/passage/?search=Acts%202:1-41&version=ESV){:target="_blank"}**
 
 
 
