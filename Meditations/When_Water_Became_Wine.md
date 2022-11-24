@@ -39,11 +39,9 @@ Oh empty reader, do you struggle with the emptiness in your life? Would you list
 
 * [https://americanmilitarynews.com/2021/07/china-is-buying-billions-in-us-farmland-and-lawmakers-are-scrambling-to-try-to-stop-them/](https://americanmilitarynews.com/2021/07/china-is-buying-billions-in-us-farmland-and-lawmakers-are-scrambling-to-try-to-stop-them/){:target="_blank"}
 
-**[India: Christians struggle to survive amid COVID-19 lockdown.][1]**<br>
-*Leah MarieAnn Klett, Christian Post, May 01, 2020.* 
-**[Read >>][1]**
+**[The Miracle at the Wedding in Cana](https://www.biblegateway.com/passage/?search=John%202:1-12&version=ESV){:target="_blank"}**<br> 
+**[Read >>](https://www.biblegateway.com/passage/?search=John%202:1-12&version=ESV){:target="_blank"}**
 
-[1]: (https://www.christianpost.com/news/india-christians-face-growing-persecution-amid-covid-19-lockdown.html){:target="_blank"}
 
 
 ---------------------
