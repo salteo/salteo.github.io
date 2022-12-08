@@ -23,4 +23,21 @@ This is an incredibly useful free productivity tool called nudgemail.com. It's s
 
 Futureme.org
 
-https://www.protectedtext.com/antleo
+https://www.protectedtext.com
+
+https://Codedpad.com
+
+https://cryptpad.fr
+
+spectre.app
+lesspass.com
+
+www.privacytools.io
+
+veracrypt.fr
+
+https://cryptomator.org/
+
+https://www.aescrypt.com/
+
+http://www.passwordmeter.com/
